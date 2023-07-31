@@ -6,8 +6,8 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: blue;
-    color: white;
+    background-color: rgb(249, 235, 181);
+    color: rgb(0, 0, 0);
 }h1,
 h2 {
     text-align: center;
@@ -24,4 +24,9 @@ h2 {
     text-align: center;
     font-size: 30px;
   }
-  
+  .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid rgb(251, 169, 134);
+    box-shadow: 5px 10px #c0bebe;
+  }  
