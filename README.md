@@ -24,11 +24,11 @@ Right click any part of the webpage to bring up the "inspect" optin in ChromeDev
 The collaborators on this project include me, myself, and Taylor
 @tayskully 
  third-party assets
- Tutorials followed include Columbia University EdX's Coding Bootcamp 2023, as well as: 
- [Github Docs](https://docs.github.com/en)
- [developer mozilla](https://developer.mozilla.org/en-US/)
- [Dev.to](https://dev.to/)
- [Code Academy blogs](https://www.codecademy.com/resources/blog/)
+ Tutorials followed include Columbia University EdX's Coding Bootcamp 2023, as well as:  
+ [Github Docs](https://docs.github.com/en)  
+ [developer mozilla](https://developer.mozilla.org/en-US/)  
+ [Dev.to](https://dev.to/)  
+ [Code Academy blogs](https://www.codecademy.com/resources/blog/)  
 
 
 ## License
@@ -38,8 +38,6 @@ Licensed under the [MIT](LICENSE) license
 Please refer to the LICENSE in the repo.
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
